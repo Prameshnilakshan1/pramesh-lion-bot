@@ -38,8 +38,8 @@ global.packname = '☬𝙥𝙧𝙖𝙢𝙚𝙨𝙝 𝙡𝙞𝙤𝙣 𝙗𝙤𝙩
 global.author = '😎𝙥𝙧𝙖𝙢𝙚𝙨𝙝 𝙣𝙞𝙡𝙖𝙠𝙨𝙝𝙖𝙣❯❯' //Author Name
 global.prefa = ['','!','.','🇱🇰','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
-global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.sp = '〠' //A Charactor
+global.dragonemoji = '⚽' // Menu emoji
 global.footer = '©_pramesh.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
